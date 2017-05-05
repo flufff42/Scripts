@@ -2,6 +2,6 @@
 
 Sundry scripts for your scripting adventures.
 
-## [Pointy](Pointy/README.md)
+## [Pointy](Pointy)
 
 Highlights a point of interest in a file using a pointer.
