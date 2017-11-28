@@ -1,6 +1,6 @@
 # Scripts
 
-Sundry scripts for your scripting adventures.
+Sundry scripts for your scripting adventures in Swift.
 
 ## [Pointy](Pointy)
 
